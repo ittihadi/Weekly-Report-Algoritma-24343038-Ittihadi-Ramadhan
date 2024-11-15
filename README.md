@@ -1,3 +1,13 @@
+> ```
+> Nama : Ittihadi Ramadhan
+> NIM  : 24343038
+> ```
+
+---
+
+Repository ini mengandung materi dari mata kuliah `Agloritma Pemrograman`
+dengan Pak Randi Proska Sandra S.Pd, M.Sc
+
 ## Penjelasan Singkat
 
 ### Modul 2 - Pemrograman Dasar C
