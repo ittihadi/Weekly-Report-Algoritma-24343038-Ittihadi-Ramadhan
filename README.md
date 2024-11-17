@@ -35,7 +35,7 @@ konstanta, serta cara penggunaan dan kegunaannya dalam sebuah program. Selain
 itu modul ini juga menunjukkan peraturan penamaan dari sebuah variabel dan
 perbedaan sifat dari tipe-tipe data variabel
 
-Modul ini memiliki tiga latihan pembuatan program
+Modul ini memiliki tiga latihan pembuatan program;
 
 1. **Program konversi mata uang**, program ini meminta pengguna untuk
    memasukkan jumlah uang dalam bentuk rupiah dan mengeluarkan hasil konversi
@@ -74,7 +74,7 @@ Terdapat empat latihan pembuatan program di modul ini:
 Modul ini menunjukkan kepada pembaca bagaimana sebuah program mengambil
 keputusan dan memilih bagian mana yang harus dijalankan, pembaca diperkenalkan
 dengan percabangan `if`, `if else`, `switch case`, `operator ternary` serta
-percabangan bersarang.
+percabangan bersarang
 
 Juga terdapat beberapa latihan membuat program di modul ini:
 
@@ -97,7 +97,7 @@ Juga terdapat beberapa latihan membuat program di modul ini:
 
 Modul ini adalah lanjutan dari modul sebelumnya, kini mendiskusikan mengenai
 perulangan, hal-hal seperti `for`, `while`, `do while`, dan perulangan
-bersarang dibahas dalam modul ini.
+bersarang dibahas dalam modul ini
 
 Pembaca juga diberikan beberapa latihan pembuatan program:
 
