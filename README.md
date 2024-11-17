@@ -116,6 +116,32 @@ Pembaca juga diberikan beberapa latihan pembuatan program:
    perulangan untuk memungkinkan pengguna melakukan aksi berulang kali, dan
    percabangan untuk melakukan aksi yang tepat berdasarkan ketentuan
 
+### Modul 7 - _Array_
+
+Modul ini mendiskusikan konsep _array_ di dalam C, termasuk cara dan ketentuan
+deklarasinya, cara mengisinya, serta tipe-tipe dari _array_, termasuk _array_
+satu dimensi, dua dimensi, dan multi dimensi. Modul ini juga menunjukkan
+bagaimana sebuah `string` (atau teks) dalam C sebenarnya identik dengan _array_
+bertipe `char`, serta beberapa fungsi yang dapat digunakan untuk
+mengoperasikannya
+
+Latihan di modul ini termasuk:
+
+1. **Program rata-rata nilai**, program ini meminta pengguna untuk memasukkan
+   20 data nilai dari mahasiswa, lalu menyimpan tiap nilai tersebut ke dalam
+   _array_ dan mengeluarkan rata-rata dari nilai-nilai tersebut
+2. **Program nama mahasiswa**, program ini pertama meminta pengguna untuk
+   memasukkan berapa banyak nama mahasiswa yang ingin dimasukkan, lalu meminta
+   nama sebanyak yang dimasukkan pengguna dan memasukkannya ke dalam sebuah
+   _array_. Setelah semua nama dimasukkan oleh pengguna, program
+   mengeluarkannya kembali dari _array_ tadi
+3. **Program login**, program ini meminta pengguna untuk memasukkan sebuah
+   _username_ dan _password_, kemudian melakukan perbandingan `string` terhadap
+   keduanya, apabila _username_ salah, program menyatakan pengguna tidak
+   terdaftar dan berhenti, lalu apabila _username_ benar dan _password_ salah,
+   program menyatakan password salah, terakhir, apabila keduanya benar, program
+   menyatakan login berhasil
+
 ## Membangun
 
 ### Menggunakan CMake
