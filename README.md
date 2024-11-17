@@ -130,3 +130,18 @@ cmake --build build
 Pasangan perintah di atas akan membuat sebuah folder bernama `build` dan di
 dalamnya akan terdapat hasil _compilation_ dari semua modul di dalam foldernya
 masing-masing
+
+Atau apabila ingin membangun hanya satu program:
+
+```sh
+cmake --build build --target jobsheetX_Y
+```
+
+dimana `X_Y` adalah kode dari program yang ingin dibangun, nilai ini sama
+dengan yang ada di nama file program tersebut
+
+Contohnya, apabila ingin membangun program 3 dari modul 4 maka jalankan
+
+```sh
+cmake --build build --target jobsheet4_3
+```
