@@ -221,6 +221,28 @@ Dalam modul ini terdapat beberapa latihan:
    mengeluarkan kembali semua data mahasiswa yang telah dimasukkan pengguna
    secara berturut-turut
 
+### Modul 11 - _File Handling in C_
+
+Modul ini menunjukkan bagaimana pembaca dapat memanipulasi file di dalam bahasa
+C. Dalam C, file dapat dibuka menggunakan fungsi `fopen` dan ditutup dengan
+`fclose`, `fopen` meminta _file path_ dari file yang ingin dibuka serta mode
+pembukaan file, mode ini bisa berupa "baca", "tulis", "tambah", dan lainnya,
+kemudian fungsi ini mengembalikan sebuah pointer `FILE` untuk file yang baru
+saja dibuka
+
+Pointer ini dapat digunakan dengan fungsi-fungsi manipulasi data seperti
+`fprintf`, `fscanf`, `fgets`, dan lain-lain. Setelah manipulasi data selesai
+dilakukan, file dapat ditutup menggunakan fungsi `fclose`, yang mengambil
+pointer file yang ingin ditutup sebagai parameternya
+
+Terdapat satu latihan pembuatan program dalam modul ini, yaitu:
+
+1. **Program biodata mahasiswa**, menggunakan perulangan, program ini meminta
+   pengguna untuk memasukkan biodata mahasiswa, kemudian menulis data tersebut
+   ke dalam sebuah file dengan nama `datamahasiswa.txt`, setelah tiap
+   perulangan program juga memastikan apakah pengguna masih ingin memasukkan
+   data baru lagi atau tidak, jika tidak program menutup file dan keluar
+
 ## Membangun
 
 ### Menggunakan CMake
