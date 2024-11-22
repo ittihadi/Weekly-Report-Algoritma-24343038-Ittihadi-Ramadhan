@@ -10,6 +10,25 @@ dengan Pak Randi Proska Sandra S.Pd, M.Sc
 
 ## Penjelasan Singkat
 
+### Modul 1 - Pengantar Algoritma dan Pemrograman
+
+Modul ini adalah sebuah pengantar terhadap konsep algoritma dan pemrograman,
+menjelaskan sejarah dari algoritma dan contohnya, lalu menjelaskan pengertian
+dari pemrograman, perbedaannya dari _coding_, serta berbagai tingkat bahasa
+pemrograman yang dapat digunakan oleh programmer
+
+Modul ini kemudian menjelaskan sejarah bahasa pemrograman C, serta kedudukannya
+di masa kini. Di samping itu modul ini juga menjelaskan alat-alat yang dapat
+digunakan dalam pemrograman bahasa C, apa saja yang perlu dipersiapkan sebelum
+memulai pemrograman, serta cara pengaturan sistem Windows agar dapat melakukan
+pemrograman dalam bahasa C
+
+Terdapat satu latihan pemrograman pada modul ini, yaitu:
+
+1. **Hello World!**, program yang paling umum digunakan sebagai program pembuka
+   dalam pembelajaran sebuah bahasa pemrograman, program ini mengeluarkan hanya
+   satu hal pada layar, tulisan "Hello World!"
+
 ### Modul 2 - Pemrograman Dasar C
 
 Modul ini mengenalkan pembaca kepada konsep-konsep dasar pemrograman
