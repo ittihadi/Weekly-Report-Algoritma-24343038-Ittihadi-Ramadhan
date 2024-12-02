@@ -73,10 +73,10 @@ percabangan bersarang.
 
 Modul ini adalah lanjutan dari modul sebelumnya, kini mendiskusikan mengenai
 perulangan, hal-hal seperti `for`, `while`, `do while`, dan perulangan
-bersarang dibahas dalam modul ini
+bersarang dibahas dalam modul ini.
 
-[Pembaca juga diberikan beberapa latihan pembuatan
-program](Modul%206%20Flow%20Control%20Looping)
+**[\[ Informasi selebihnya dapat dilihat di sini
+\]](Modul%2006%20Flow%20Control%20Looping)**
 
 ### 🔗 Modul 7 - _Array_
 
