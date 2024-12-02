@@ -13,10 +13,15 @@ pointer file yang ingin ditutup sebagai parameternya
 
 Latihan di modul ini:
 
-1. **Program biodata mahasiswa**, menggunakan perulangan, program ini meminta
-   pengguna untuk memasukkan biodata mahasiswa, kemudian menulis data tersebut
-   ke dalam sebuah file dengan nama `datamahasiswa.txt`, setelah tiap
-   perulangan program juga memastikan apakah pengguna masih ingin memasukkan
-   data baru lagi atau tidak, jika tidak maka program menutup file dan keluar
+1. **Program biodata mahasiswa**
 
-![Penampilan jobsheet 1](../assets/Modul_11_Jobsheet_1.mp4)
+   <div align='center'>
+      <img src="/assets/Modul_11_Jobsheet_1.gif" width="540" />
+   </div>
+
+   menggunakan perulangan, program ini meminta pengguna untuk memasukkan biodata
+   mahasiswa, kemudian menulis data tersebut ke dalam sebuah file dengan nama
+   `datamahasiswa.txt`, setelah tiap perulangan program juga memastikan apakah
+   pengguna masih ingin memasukkan data baru lagi atau tidak, jika tidak maka
+   program menutup file dan keluar
+   
