@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.12)
 project(algoritma-permrograman C)
 
 set(module_dirs
-    Modul\ 1\ Pengantar\ Algoritma\ dan\ Pemrograman
     Modul\ 2\ Pemrograman\ Dasar\ C
     Modul\ 3\ Variabel\ Konstanta\ dan\ Tipe\ Data
     Modul\ 4\ Operator
@@ -11,6 +10,7 @@ set(module_dirs
     Modul\ 7\ Array
     Modul\ 8\ Fungsi\ dan\ Prosedur
     Modul\ 9\ Pointer
+    Modul\ 01\ Pengantar\ Algoritma\ dan\ Pemrograman
     Modul\ 10\ Enumerasi\ dan\ Struktur
     Modul\ 11\ File\ Handling\ in\ C
 )

@@ -24,16 +24,16 @@ dilihat di bawah ini
 Modul ini adalah sebuah pengantar terhadap konsep algoritma dan pemrograman,
 menjelaskan sejarah dari algoritma dan contohnya, lalu menjelaskan pengertian
 dari pemrograman, perbedaannya dari _coding_, serta berbagai tingkat bahasa
-pemrograman yang dapat digunakan oleh programmer
+pemrograman yang dapat digunakan oleh programmer.
 
-Modul ini kemudian menjelaskan sejarah bahasa pemrograman C, serta kedudukannya
-di masa kini. Di samping itu modul ini juga menjelaskan alat-alat yang dapat
-digunakan dalam pemrograman bahasa C, apa saja yang perlu dipersiapkan sebelum
-memulai pemrograman, serta cara pengaturan sistem Windows agar dapat melakukan
-pemrograman dalam bahasa C
+Modul ini menjelaskan sejarah bahasa pemrograman C, serta kedudukannya
+di masa kini. Lalu modul ini menjelaskan alat-alat yang digunakan dalam
+pemrograman bahasa C, apa saja yang perlu dipersiapkan sebelum memulai
+pemrograman, serta cara pengaturan sistem Windows agar dapat melakukan
+pemrograman dalam bahasa C.
 
-[Terdapat satu latihan pemrograman pada modul
-ini](Modul%201%20Pengantar%20Algoritma%20dan%20Pemrograman)
+**[\[ Informasi selebihnya dapat dilihat di
+sini \]](Modul%2001%20Pengantar%20Algoritma%20dan%20Pemrograman)**
 
 ### 🇨 Modul 2 - Pemrograman Dasar C
 
