@@ -16,7 +16,10 @@
 
 ## Penjelasan Singkat
 
-### Modul 1 - Pengantar Algoritma dan Pemrograman
+Terdapat sebelas modul pada mata kuliah ini, pembahasan dari tiap modul dapat
+dilihat di bawah ini
+
+### 🔥 Modul 1 - Pengantar Algoritma dan Pemrograman
 
 Modul ini adalah sebuah pengantar terhadap konsep algoritma dan pemrograman,
 menjelaskan sejarah dari algoritma dan contohnya, lalu menjelaskan pengertian
@@ -30,49 +33,52 @@ memulai pemrograman, serta cara pengaturan sistem Windows agar dapat melakukan
 pemrograman dalam bahasa C
 
 [Terdapat satu latihan pemrograman pada modul
-ini](Modul%201%20Pengantar%20Algoritma%20dan%20Pemrograman/README.md)
+ini](Modul%201%20Pengantar%20Algoritma%20dan%20Pemrograman)
 
-### Modul 2 - Pemrograman Dasar C
+### 🇨 Modul 2 - Pemrograman Dasar C
 
 Modul ini mengenalkan pembaca kepada konsep-konsep dasar pemrograman
 menggunakan bahasa C, seperti sintaks dan _input output_ dari program C
 
 [Modul ini memiliki empat latihan pembuatan
-program](Modul%202%20Pemrograman%20Dasar%20C/README.md)
+program](Modul%202%20Pemrograman%20Dasar%20C)
 
-### Modul 3 - Variabel, Konsanta, dan Tipe Data
+### 💾 Modul 3 - Variabel, Konsanta, dan Tipe Data
 
 Modul ini mengenalkan konsep variabel, tipe data variabel, dan variabel
 konstanta, serta cara penggunaan dan kegunaannya dalam sebuah program. Selain
 itu modul ini juga menunjukkan peraturan penamaan dari sebuah variabel dan
 perbedaan sifat dari tipe-tipe data variabel
 
-[Modul ini memiliki tiga latihan pembuatan program](Modul%203%20Variabel%20Konstanta%20dan%20Tipe%20Data/README.md)
+[Modul ini memiliki tiga latihan pembuatan
+program](Modul%203%20Variabel%20Konstanta%20dan%20Tipe%20Data)
 
-### Modul 4 - Operator
+### 📐 Modul 4 - Operator
 
 Modul ini menampilkan berbagai macam operator dalam C, diantaranya operator aritmatika, penegasan, pembandingan, logika, serta bitwise
 
-[Terdapat empat latihan pembuatan program di modul ini](Modul%204%20Operator/README.md)
+[Terdapat empat latihan pembuatan program di modul ini](Modul%204%20Operator)
 
-### Modul 5 - _Flow Control: Decision Making_
+### ❔ Modul 5 - _Flow Control: Decision Making_
 
 Modul ini menunjukkan kepada pembaca bagaimana sebuah program mengambil
 keputusan dan memilih bagian mana yang harus dijalankan, pembaca diperkenalkan
 dengan percabangan `if`, `if else`, `switch case`, `operator ternary` serta
 percabangan bersarang
 
-[Juga terdapat beberapa latihan membuat program di modul ini](Modul%205%20Flow%20Control%20Decision%20Making/README.md)
+[Juga terdapat beberapa latihan membuat program di modul
+ini](Modul%205%20Flow%20Control%20Decision%20Making)
 
-### Modul 6 - _Flow Control: Looping_
+### 🔁 Modul 6 - _Flow Control: Looping_
 
 Modul ini adalah lanjutan dari modul sebelumnya, kini mendiskusikan mengenai
 perulangan, hal-hal seperti `for`, `while`, `do while`, dan perulangan
 bersarang dibahas dalam modul ini
 
-[Pembaca juga diberikan beberapa latihan pembuatan program](Modul%206%20Flow%20Control%20Looping/README.md)
+[Pembaca juga diberikan beberapa latihan pembuatan
+program](Modul%206%20Flow%20Control%20Looping)
 
-### Modul 7 - _Array_
+### 🔗 Modul 7 - _Array_
 
 Modul ini mendiskusikan konsep _array_ di dalam C, termasuk cara dan ketentuan
 deklarasinya, cara mengisinya, serta tipe-tipe dari _array_, termasuk _array_
@@ -81,9 +87,9 @@ bagaimana sebuah `string` (atau teks) dalam C sebenarnya identik dengan _array_
 bertipe `char`, serta beberapa fungsi yang dapat digunakan untuk
 mengoperasikannya
 
-[Latihan di modul ini termasuk](Modul%207%20Array/README.md)
+[Latihan di modul ini termasuk](Modul%207%20Array)
 
-### Modul 8 - Fungsi dan Prosedur
+### 📋 Modul 8 - Fungsi dan Prosedur
 
 Modul ini menunjukkan pembaca bagaimana cara mendeklarasi, mendefinisi, dan
 memanggil fungsi di dalam C. Serta detil-detil fungsi dan kegunaan lainnya,
@@ -91,9 +97,9 @@ seperti fungsi rekursif, cakupan dari sebuah variabel terhadap fungsi, dan
 perbedaan tipe argumen dari fungsi
 
 [Modul ini memiliki beberapa latihan
-programming](Modul%208%20Fungsi%20dan%20Prosedur/README.md)
+programming](Modul%208%20Fungsi%20dan%20Prosedur)
 
-### Modul 9 - _Pointer_
+### 👇 Modul 9 - _Pointer_
 
 Modul ini mengenalkan pembaca dengan konsep _pointer_ di dalam bahasa C. Sebuah
 _pointer_ adalah tipe variabel yang berisi alamat memori ke variabel lain.
@@ -102,9 +108,9 @@ dimana sebuah fungsi menerima _pointer_ dari sebuah variabel lain dan dapat
 merubah data pada alamat itu secara langsung. _Pointer_ juga dapat digunakkan
 sebagai titik akses elemen _array_.
 
-[Beberapa tugas yang ada pada modul ini termasuk](Modul%209%20Pointer/README.md)
+[Beberapa tugas yang ada pada modul ini termasuk](Modul%209%20Pointer)
 
-### Modul 10 - Enumerasi dan Struktur
+### 🖽 Modul 10 - Enumerasi dan Struktur
 
 Modul ini membahas konsep struktur (_struct_) dan enumerasi (_enum_) pada C.
 Struktur (ditandai dengan `struct`) adalah sebuah tipe data yang dapat dibuat
@@ -114,9 +120,9 @@ adalah cara bagi programmer untuk mendefinisikan sebuah kumpulan konstanta
 integer yang dapat diakses dan digunakan dengan mudah.
 
 [Dalam modul ini terdapat beberapa
-latihan](Modul%2010%20Enumerasi%20dan%20Struktur/README.md)
+latihan](Modul%2010%20Enumerasi%20dan%20Struktur)
 
-### Modul 11 - _File Handling in C_
+### 📁 Modul 11 - _File Handling in C_
 
 Modul ini menunjukkan bagaimana pembaca dapat memanipulasi file di dalam bahasa
 C. Dalam C, file dapat dibuka menggunakan fungsi `fopen` dan ditutup dengan
@@ -130,7 +136,8 @@ Pointer ini dapat digunakan dengan fungsi-fungsi manipulasi data seperti
 dilakukan, file dapat ditutup menggunakan fungsi `fclose`, yang mengambil
 pointer file yang ingin ditutup sebagai parameternya
 
-[Terdapat satu latihan pembuatan program dalam modul ini](Modul%2011%20File%20Handling%20in%20C/README.md)
+[Terdapat satu latihan pembuatan program dalam modul
+ini](Modul%2011%20File%20Handling%20in%20C)
 
 ## Membangun
 
