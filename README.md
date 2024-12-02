@@ -64,10 +64,10 @@ Modul ini menampilkan berbagai macam operator dalam C, diantaranya operator arit
 Modul ini menunjukkan kepada pembaca bagaimana sebuah program mengambil
 keputusan dan memilih bagian mana yang harus dijalankan, pembaca diperkenalkan
 dengan percabangan `if`, `if else`, `switch case`, `operator ternary` serta
-percabangan bersarang
+percabangan bersarang.
 
-[Juga terdapat beberapa latihan membuat program di modul
-ini](Modul%205%20Flow%20Control%20Decision%20Making)
+**[\[ Informasi selebihnya dapat dilihat di sini
+\]](Modul%2005%20Flow%20Control%20Decision%20Making)**
 
 ### 🔁 Modul 6 - _Flow Control: Looping_
 

@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.12)
 project(algoritma-permrograman C)
 
 set(module_dirs
-    Modul\ 5\ Flow\ Control\ Decision\ Making
     Modul\ 6\ Flow\ Control\ Looping
     Modul\ 7\ Array
     Modul\ 8\ Fungsi\ dan\ Prosedur
@@ -11,6 +10,7 @@ set(module_dirs
     Modul\ 02\ Pemrograman\ Dasar\ C
     Modul\ 03\ Variabel\ Konstanta\ dan\ Tipe\ Data
     Modul\ 04\ Operator
+    Modul\ 05\ Flow\ Control\ Decision\ Making
     Modul\ 10\ Enumerasi\ dan\ Struktur
     Modul\ 11\ File\ Handling\ in\ C
 )
