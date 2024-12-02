@@ -125,19 +125,10 @@ latihan](Modul%2010%20Enumerasi%20dan%20Struktur)
 ### 📁 Modul 11 - _File Handling in C_
 
 Modul ini menunjukkan bagaimana pembaca dapat memanipulasi file di dalam bahasa
-C. Dalam C, file dapat dibuka menggunakan fungsi `fopen` dan ditutup dengan
-`fclose`, `fopen` meminta _file path_ dari file yang ingin dibuka serta mode
-pembukaan file, mode ini bisa berupa "baca", "tulis", "tambah", dan lainnya,
-kemudian fungsi ini mengembalikan sebuah pointer `FILE` untuk file yang baru
-saja dibuka
+C. Dimulai dari membuka, membaca, dan menutup kembali sebuah file.
 
-Pointer ini dapat digunakan dengan fungsi-fungsi manipulasi data seperti
-`fprintf`, `fscanf`, `fgets`, dan lain-lain. Setelah manipulasi data selesai
-dilakukan, file dapat ditutup menggunakan fungsi `fclose`, yang mengambil
-pointer file yang ingin ditutup sebagai parameternya
-
-[Terdapat satu latihan pembuatan program dalam modul
-ini](Modul%2011%20File%20Handling%20in%20C)
+**[\[ Informasi selebihnya dapat dilihat di sini
+\]](Modul%2011%20File%20Handling%20in%20C)**
 
 ## Membangun
 
