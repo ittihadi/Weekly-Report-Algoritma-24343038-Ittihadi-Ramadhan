@@ -57,7 +57,7 @@ sini \]](Modul%2003%20Variabel%20Konstanta%20dan%20Tipe%20Data)**
 
 Modul ini menampilkan berbagai macam operator dalam C, diantaranya operator aritmatika, penegasan, pembandingan, logika, serta bitwise
 
-[Terdapat empat latihan pembuatan program di modul ini](Modul%204%20Operator)
+**[\[ Informasi selebihnya dapat dilihat di sini \]](Modul%2004%20Operator)**
 
 ### ❔ Modul 5 - _Flow Control: Decision Making_
 
