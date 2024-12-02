@@ -40,8 +40,8 @@ sini \]](Modul%2001%20Pengantar%20Algoritma%20dan%20Pemrograman)**
 Modul ini mengenalkan pembaca kepada konsep-konsep dasar pemrograman
 menggunakan bahasa C, seperti sintaks dan _input output_ dari program C
 
-[Modul ini memiliki empat latihan pembuatan
-program](Modul%202%20Pemrograman%20Dasar%20C)
+**[\[ Informasi selebihnya dapat dilihat di
+sini \]](Modul%2002%20Pemrograman%20Dasar%20C)**
 
 ### 💾 Modul 3 - Variabel, Konsanta, dan Tipe Data
 
