@@ -50,8 +50,8 @@ konstanta, serta cara penggunaan dan kegunaannya dalam sebuah program. Selain
 itu modul ini juga menunjukkan peraturan penamaan dari sebuah variabel dan
 perbedaan sifat dari tipe-tipe data variabel
 
-[Modul ini memiliki tiga latihan pembuatan
-program](Modul%203%20Variabel%20Konstanta%20dan%20Tipe%20Data)
+**[\[ Informasi selebihnya dapat dilihat di
+sini \]](Modul%2003%20Variabel%20Konstanta%20dan%20Tipe%20Data)**
 
 ### 📐 Modul 4 - Operator
 
