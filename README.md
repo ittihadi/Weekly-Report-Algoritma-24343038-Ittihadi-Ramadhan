@@ -12,8 +12,10 @@
 
 
 <div align='center'>
+   
    Repository ini mengandung materi dari mata kuliah `Agloritma Pemrograman`
    dengan Pak Randi Proska Sandra S.Pd, M.Sc
+
 </div>
 
 ---
