@@ -1,16 +1,17 @@
+<h2 align='center'>
+
+   ![Gambar Header](/assets/github-header-image.png)
+
+   Ittihadi Ramadhan | 24343038 <br>
+   Universitas Negeri Padang
+
+</h2>
+
+
 <div align='center'>
-
-   # Algoritma Pemrograman
-
    Repository ini mengandung materi dari mata kuliah `Agloritma Pemrograman`
    dengan Pak Randi Proska Sandra S.Pd, M.Sc
-
 </div>
-
-> ```
-> Nama : Ittihadi Ramadhan
-> NIM  : 24343038
-> ```
 
 ---
 
