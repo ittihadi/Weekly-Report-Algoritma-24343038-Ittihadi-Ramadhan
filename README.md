@@ -85,9 +85,9 @@ deklarasinya, cara mengisinya, serta tipe-tipe dari _array_, termasuk _array_
 satu dimensi, dua dimensi, dan multi dimensi. Modul ini juga menunjukkan
 bagaimana sebuah `string` (atau teks) dalam C sebenarnya identik dengan _array_
 bertipe `char`, serta beberapa fungsi yang dapat digunakan untuk
-mengoperasikannya
+mengoperasikannya.
 
-[Latihan di modul ini termasuk](Modul%207%20Array)
+**[\[ Informasi selebihnya dapat dilihat di sini \]](Modul%2007%20Array)**
 
 ### 📋 Modul 8 - Fungsi dan Prosedur
 
