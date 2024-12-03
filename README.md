@@ -38,7 +38,7 @@ sini \]](Modul%2001%20Pengantar%20Algoritma%20dan%20Pemrograman)**
 ### 🇨 Modul 2 - Pemrograman Dasar C
 
 Modul ini mengenalkan pembaca kepada konsep-konsep dasar pemrograman
-menggunakan bahasa C, seperti sintaks dan _input output_ dari program C
+menggunakan bahasa C, seperti sintaks dan _input output_ dari program C.
 
 **[\[ Informasi selebihnya dapat dilihat di
 sini \]](Modul%2002%20Pemrograman%20Dasar%20C)**
@@ -48,14 +48,15 @@ sini \]](Modul%2002%20Pemrograman%20Dasar%20C)**
 Modul ini mengenalkan konsep variabel, tipe data variabel, dan variabel
 konstanta, serta cara penggunaan dan kegunaannya dalam sebuah program. Selain
 itu modul ini juga menunjukkan peraturan penamaan dari sebuah variabel dan
-perbedaan sifat dari tipe-tipe data variabel
+perbedaan sifat dari tipe-tipe data variabel.
 
 **[\[ Informasi selebihnya dapat dilihat di
 sini \]](Modul%2003%20Variabel%20Konstanta%20dan%20Tipe%20Data)**
 
 ### 📐 Modul 4 - Operator
 
-Modul ini menampilkan berbagai macam operator dalam C, diantaranya operator aritmatika, penegasan, pembandingan, logika, serta bitwise
+Modul ini menampilkan berbagai macam operator dalam C, diantaranya operator
+aritmatika, penegasan, pembandingan, logika, serta bitwise.
 
 **[\[ Informasi selebihnya dapat dilihat di sini \]](Modul%2004%20Operator)**
 
@@ -125,7 +126,7 @@ C. Dimulai dari membuka, membaca, dan menutup kembali sebuah file.
 **[\[ Informasi selebihnya dapat dilihat di sini
 \]](Modul%2011%20File%20Handling%20in%20C)**
 
-## Membangun
+## 🔧 Membangun
 
 ### Menggunakan CMake
 
