@@ -2,10 +2,10 @@
 
 Salah satu hal yang penting saat membuat suatu program adalah kemampuan untuk
 mengatur alur kerja program tersebut untuk berbagai macam situasi (atau juga
-disebut _flow control_). Pengambilan keputusan (atau _decision making_) adalah
-satu bagian dari hal tersebut. Pada C, ada tiga cara utama untuk melakukan
-pengambilan keputusan, menggunakan `if` dan `else`, menggunakan `switch`, serta
-menggunakan operasi `ternary`.
+disebut _flow control_). Pengambilan keputusan (_decision making_ atau
+_branching_) adalah satu bagian dari hal tersebut. Pada C, ada tiga cara utama
+untuk melakukan pengambilan keputusan, menggunakan `if` dan `else`, menggunakan
+`switch`, serta menggunakan operasi `ternary`.
 
 `if` adalah bentuk _decision making_ tersederhana di C, diberikan suatu
 ekspresi yang mengembalikan nilai benar atau salah, program akan menjalankan
