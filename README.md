@@ -108,7 +108,7 @@ dimana sebuah fungsi menerima _pointer_ dari sebuah variabel lain dan dapat
 merubah data pada alamat itu secara langsung. _Pointer_ juga dapat digunakkan
 sebagai titik akses elemen _array_.
 
-[Beberapa tugas yang ada pada modul ini termasuk](Modul%209%20Pointer)
+**[\[ Informasi selebihnya dapat dilihat di sini \]](Modul%2009%20Pointer)**
 
 ### 🖽 Modul 10 - Enumerasi dan Struktur
 
