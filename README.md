@@ -94,10 +94,10 @@ mengoperasikannya.
 Modul ini menunjukkan pembaca bagaimana cara mendeklarasi, mendefinisi, dan
 memanggil fungsi di dalam C. Serta detil-detil fungsi dan kegunaan lainnya,
 seperti fungsi rekursif, cakupan dari sebuah variabel terhadap fungsi, dan
-perbedaan tipe argumen dari fungsi
+perbedaan tipe argumen dari fungsi.
 
-[Modul ini memiliki beberapa latihan
-programming](Modul%208%20Fungsi%20dan%20Prosedur)
+**[\[ Informasi selebihnya dapat dilihat di sini
+\]](Modul%2008%20Fungsi%20dan%20Prosedur)**
 
 ### 👇 Modul 9 - _Pointer_
 
