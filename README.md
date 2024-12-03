@@ -110,17 +110,12 @@ sebagai titik akses elemen _array_.
 
 **[\[ Informasi selebihnya dapat dilihat di sini \]](Modul%2009%20Pointer)**
 
-### 🖽 Modul 10 - Enumerasi dan Struktur
+### 🧱 Modul 10 - Enumerasi dan Struktur
 
 Modul ini membahas konsep struktur (_struct_) dan enumerasi (_enum_) pada C.
-Struktur (ditandai dengan `struct`) adalah sebuah tipe data yang dapat dibuat
-oleh programmer untuk memegang dan menyimpan berbagai macam variabel lain
-dengan tipe-tipe data yang berbeda. Dimana enumerasi (ditandai dengan `enum`)
-adalah cara bagi programmer untuk mendefinisikan sebuah kumpulan konstanta
-integer yang dapat diakses dan digunakan dengan mudah.
 
-[Dalam modul ini terdapat beberapa
-latihan](Modul%2010%20Enumerasi%20dan%20Struktur)
+**[\[ Informasi selebihnya dapat dilihat di sini
+\]](Modul%2010%20Enumerasi%20dan%20Struktur)**
 
 ### 📁 Modul 11 - _File Handling in C_
 
