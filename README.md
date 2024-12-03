@@ -5,8 +5,8 @@
    Ittihadi Ramadhan | 24343038 <br>
    Universitas Negeri Padang
 
-   ![Static Badge](https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2F_ittihadi%2F)
-   ![Static Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.youtube.com%2F%40ittihadiramadhan5435)
+   [![Static Badge](https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto)](https://www.instagram.com/_ittihadi/)
+   [![Static Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto)](https://www.youtube.com/@ittihadiramadhan5435)
 
 </h2>
 
